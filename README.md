@@ -14,7 +14,7 @@ functional traits at the metagenome level (i.e., functional aggregated traits), 
 Ensure you have Docker runtime active at time of running this command.
 
 ```
-wget https://github.com/new-atlantis-labs/Mg-Traits/blob/main/run_mg_traits.sh
+wget https://raw.githubusercontent.com/new-atlantis-labs/Mg-Traits/refs/heads/main/run_mg_traits.sh
 
 chmod +x run_mg_traits.sh
 
